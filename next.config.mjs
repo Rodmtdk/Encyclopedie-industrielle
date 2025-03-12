@@ -1,3 +1,4 @@
+// next.config.mjs (Configuration propre et optimisée)
 const nextConfig = {
   reactStrictMode: true,
   images: {
