@@ -1,3 +1,4 @@
+git status
 // next.config.mjs (Configuration optimisée pour Next.js)
 const nextConfig = {
   reactStrictMode: true,
