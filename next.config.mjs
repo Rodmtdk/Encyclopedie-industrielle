@@ -2,8 +2,6 @@
 // next.config.mjs (Configuration avancée optimisée pour une encyclopédie industrielle complète)
 const nextConfig = {
   reactStrictMode: true,
-  experimental: {
-    appDir: true,
     optimizeCss: true,
   },
   images: {
